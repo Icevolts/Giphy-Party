@@ -1,0 +1,28 @@
+#form{
+    margin: auto;
+}
+
+input{
+font-size: 25px;
+border-radius: 5px;
+}
+
+#search{
+background-color:rgb(85, 85, 95);
+font-size: 25px;
+border-radius: 5px;
+}
+
+#del{
+background-color: rgb(184, 69, 69);
+font-size: 25px;
+border-radius: 5px;
+}
+
+body{
+background-color: rgb(255, 255, 255)
+}
+
+div{
+width: 250px
+}
